@@ -1,0 +1,16 @@
+{
+  "name": "group-chat",
+  "version": "1.0.0",
+  "description": "a web platform that allows users to create public groups for other users to join in and chat with each other to have fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "express": "^4.19.2"
+  }
+}
